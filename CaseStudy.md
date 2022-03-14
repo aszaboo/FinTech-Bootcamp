@@ -1,4 +1,4 @@
-# TITLE
+# Not Your Keys Not Your Crypto!
 
 ## Overview and Origin
 On November 13, 2013, the first key swindler was born. Quadriga Fintech Solutions was Canada’s largest cryptocurrency exchange until 2019 when it ceased operations and declared bankruptcy with $215.7 million in liabilities with only $28 million in assets (Wikipedia, 2022). The quick fall from top to bottom came after CEO Gerald William Cotton was found dead after a trip to India. With his death also came the loss of passwords to offline cold wallets that held around $250 million in cryptocurrency. As these assets were stored in a cold wallet, they could never be recovered, and hundreds of thousands of people lost the bitcoin they paid for. Why does this matter? This story may seem like one where ill-fortune leads to an unfortunate outcome, but events like this could still happen today on many exchanges. A common phrase in the crypto world describes this phenomenon, not your keys, not your crypto. Wealthsimple, one typical exchange that millions of Canadians use, fits into this category. It is not because of shady tactics, but it is not yours when you buy crypto on their platform! 
